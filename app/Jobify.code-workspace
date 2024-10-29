@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../nextjs-course-openai-main/03-jobify/assets"
+		}
+	],
+	"settings": {}
+}
